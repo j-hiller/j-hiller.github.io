@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computater Science and Systems Engineering, TU Ilmenau, 2014
+* M.Sc. in Electrical Engineering, Information Technology and Computer Engineering, RWTH Aachen University, 2017
+* Ph.D in Mechanical Engineering, RWTH Aachen University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Since 2019: Group Leader Data & Effectiveness
+  * ika RWTH Aachen University
+  * Organization and structuring of projects and group resources, Acquisition of new projects and research fields
   
+* since 2017: Research Scientist
+  * ika RWTH Aachen University
+  * Work on industrial and scientific projects in the field of safety assurance for automated driving
+  * Conception, development and implementation of tools for the analysis of driving data
+  * Aggregation and assessment of publicly available data
+  * Data storage and management of driving data
+
+* 2014 - 2017: Student Assistant
+  * ika RWTH Aachen University
+  * Conception and implementation of tools for the prospective impact assessment, development of a parking assistant
+
+* April 2016 - September 2016: Internship
+  * Audi AG, Ingolstadt
+  * Work on internal representation of road layout
+  
+* September 2013 - December 2013: Internship
+  * BMW Forschung & Technik GmbH, Munich
+  * Setting up a simulation environment in RVIZ (ROS)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: C, Matlab, Python
+* Development tools: Docker, git
+* Languages: German (native), English
 
 Publications
 ======
