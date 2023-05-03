@@ -26,4 +26,4 @@ Quick info:
     * Thesis: "Trajektorienplanung zum hochautomatisierten Fahren"
 
 Further links:
-  * [Profile on ika website](https://www.ika.rwth-aachen.de/en/institute/staff/johannes-hiller-m-sc.html)
+  * [Profile on ika website](https://www.ika.rwth-aachen.de/en/institute/team/vehicle-intelligence-automated-driving/hiller.html)
