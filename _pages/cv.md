@@ -13,15 +13,20 @@ Education
 ======
 * B.Sc. in Computater Science and Systems Engineering, TU Ilmenau, 2014
 * M.Sc. in Electrical Engineering, Information Technology and Computer Engineering, RWTH Aachen University, 2017
-* Ph.D in Mechanical Engineering, RWTH Aachen University, 2024 (expected)
+* Dr.-Ing. in Mechanical Engineering, RWTH Aachen University, 2024
 
 Work experience
 ======
-* Since 2019: Group Leader Data & Effectiveness
+* Since 2024: Data Scientist
+  * Federal Highway and Transport Research Institute (BASt)
+  * Digitization of roads, data, infrastructure
+  * Application and usage of earth observation data in the field of road and infrastructure monitoring
+
+* 2019 - 2024: Group Leader Data & Effectiveness
   * ika RWTH Aachen University
   * Organization and structuring of projects and group resources, Acquisition of new projects and research fields
   
-* since 2017: Research Scientist
+* 2017 - 2024: Research Scientist
   * ika RWTH Aachen University
   * Work on industrial and scientific projects in the field of safety assurance for automated driving
   * Conception, development and implementation of tools for the analysis of driving data
