@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Johannes Hiller M.Sc."
+title                    : "Dr.-Ing. Johannes Hiller"
 title_separator          : "-"
 name                     : &name "Johannes Hiller"
-description              : &description "PhD Student in automated driving @ ika"
+description              : &description "Data Scientist @ BASt"
 url                      : https://j-hiller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "j-hiller/j-hiller.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Johannes Hiller"
   avatar           : "hiller_profile.png"
-  bio              : "Group Leader Data & Effectiveness and PhD student in the field of automated driving @ ika"
-  location         : "Aachen, Germany"
-  employer         : "ika RWTH Aachen University"
+  bio              : "Data Scientist @ BASt"
+  location         : 
+  employer         : "BASt"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oqh5fmYAAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Johannes-Hiller-2"
+  researchgate     : "https://www.researchgate.net/profile/Johannes-Hiller-2"
   uri              :
   bitbucket        :
   codepen          :
