@@ -18,7 +18,7 @@ Recommended citation:
   title        = {L3Pilot Open Data},
   month        = jan,
   year         = 2022,
-  note         = {{When working with the data, it is important to consider, that the data was gathered using pre-series vehicles in an experimental setup on public roads. Although the vehicles piloted were mature enough for operation on public roads, they may deviate from behaviour of automated series vehicles, which could for instance depend on legislative changes on speeds and distance requirements. This may also affect the user-related analysis.}},
+  note         = {When working with the data, it is important to consider, that the data was gathered using pre-series vehicles in an experimental setup on public roads. Although the vehicles piloted were mature enough for operation on public roads, they may deviate from behaviour of automated series vehicles, which could for instance depend on legislative changes on speeds and distance requirements. This may also affect the user-related analysis.},
   publisher    = {Zenodo},
   version      = {1.0},
   doi          = {10.5281/zenodo.5874765},
